@@ -22,7 +22,7 @@ We sorted the data by the outlier scores for each party in descending order whic
 
 SUMMARY OF FINDINGS:
 
-After calculating the outliers, we sorted the dataset by the outlier scores for each party in a descending order
+After calculating the outliers, we sorted the dataset by the outlier scores for each party in a descending order.  
 
 TOP 3 OUTLIERS:
 These are the top 3 outliers identified in each political parties along with their outlier score:
@@ -33,20 +33,20 @@ BORIPE, COLLEGE/EGBADA ROAD, OSUN:
 Outlier Score : 4.25
 Location: (7.5, 4.5)
 Explanation:
-a.) With an outlier score of 4.25, the APC vote count at BORIPE, COLLEGE/EGBADA ROAD, OSUN is extremely unusual compared to neighbouring polling units.
-b.) There could be a strong local support for APC in this area.
-IFE EAST, MODAKEKE III, OSUN:
-Outlier Score: 3.71
-Location: (7.5, 4.5)
-Explanation:
-a.) The APC vote at IFE EAST, MODAKEKE III, OSUN is also unusual compared to its neighbouring polling units.
-b.) Intensive campaigning or lack thereof by the APC in this area could result in a substantial difference in the vote count.
-EDE NORTH, OLOGUN/AGBAAKIN, OSUN:
-Outlier Score : 3.61
-Location: (7.5, 4.5)
-Explanation:
-a.) With an outlier score of 3.61, the APC vote count at EDE NORTH, OLOGUN/AGBAAKIN, OSUN is unusual compared to neighbouring polling units.
-b.) Specific conditions on the election day such as weather or incidents at the polling unit might have influenced voter behaviour.
+a.) With an outlier score of 4.25, the APC vote count at BORIPE, COLLEGE/EGBADA ROAD, OSUN is extremely unusual compared to neighbouring polling units.  
+b.) There could be a strong local support for APC in this area.  
+IFE EAST, MODAKEKE III, OSUN:  
+Outlier Score: 3.71  
+Location: (7.5, 4.5)  
+Explanation:  
+a.) The APC vote at IFE EAST, MODAKEKE III, OSUN is also unusual compared to its neighbouring polling units.  
+b.) Intensive campaigning or lack thereof by the APC in this area could result in a substantial difference in the vote count.  
+EDE NORTH, OLOGUN/AGBAAKIN, OSUN:  
+Outlier Score : 3.61  
+Location: (7.5, 4.5)  
+Explanation:  
+a.) With an outlier score of 3.61, the APC vote count at EDE NORTH, OLOGUN/AGBAAKIN, OSUN is unusual compared to neighbouring polling units.  
+b.) Specific conditions on the election day such as weather or incidents at the polling unit might have influenced voter behaviour.  
 
 ![APC_Outlier](https://github.com/Raphlawren/Osun_State_Election/assets/130583230/f32d5457-a2ba-445e-a801-513955d8ac3f)
 ![Screenshot 2024-07-04 at 10 16 39 PM](https://github.com/Raphlawren/Osun_State_Election/assets/130583230/84c60051-b7ef-49de-9bef-1069b89947ea)
